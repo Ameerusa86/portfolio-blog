@@ -1,0 +1,10 @@
+{
+    "functions": {
+      "api/**/*.js": {
+        "maxDuration": 10,
+        "memory": 1024,
+        "maxLambdaSize": "50mb"
+      }
+    }
+  }
+  
